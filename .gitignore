@@ -1,0 +1,12 @@
+build/
+lib/
+cmake-build-debug/
+third_party/
+*logs/
+
+*.INFO
+
+*.a
+*.dylib
+
+data/
